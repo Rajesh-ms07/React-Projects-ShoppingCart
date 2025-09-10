@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 12",
+    "description": "The Apple iPhone 12 features a 6.1-inch Super Retina XDR display and A14 Bionic chip.",
+    "price": 999.00,
+    "category": "Electronics",
+    "image": "https://rukminim2.flixcart.com/image/704/844/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display and Exynos 2100 chip.",
+    "price": 799.00,
+    "category": "Electronics",
+    "image": "https://images-cdn.ubuy.co.in/67d2f40155bbdf4d0e4281d4-pre-owned-samsung-galaxy-s21-5g-g991u.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "description": "The Sony PlayStation 5 features an AMD Zen 2-based CPU, AMD RDNA 2-based GPU, and 16GB of GDDR6 memory.",
+    "price": 499.99,
+    "category": "Electronics",
+    "image": "https://www.buy2play.ro/wp-content/uploads/2024/07/ps5-disk-2-gta-5.webp"
+  },
+  {
+    "id": 4,
+    "name": "LG 55-inch 4K OLED TV",
+    "description": "The LG OLED55CXPUA 55-inch 4K OLED TV features OLED Display, 4K UHD Resolution, HDR10 Pro, HLG Pro, Dolby Vision IQ, and Dolby Atmos.",
+    "price": 1599.99,
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71G8p4gaHvL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bose Wireless Headphones",
+    "description": "The Bose QuietComfort 35 II Wireless Headphones feature world-class noise cancellation and voice control.",
+    "price": 299.00,
+    "category": "Electronics",
+    "image": "https://rukminim2.flixcart.com/image/704/844/j9d3bm80/headphone/z/s/f/bose-quietcomfort-35-ii-original-imaeyzzctgygz4pf.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 6,
+    "name": "Fitbit Versa 3 Smartwatch",
+    "description": "The Fitbit Versa 3 Smartwatch features a built-in GPS, Active Zone Minutes, and voice assistant.",
+    "price": 229.95,
+    "category": "Electronics",
+    "image": "https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/fitbit_fb511glpk_versa_3_gps_smartwatch_1600862728_1590666.jpg"
+  },
+  {
+    "id": 7,
+    "name": "KitchenAid Stand Mixer",
+    "description": "The KitchenAid Stand Mixer features a 5-quart stainless steel bowl, 10-speed settings, and a variety of attachments.",
+    "price": 399.99,
+    "category": "Home & Kitchen",
+    "image": "https://images-cdn.ubuy.co.in/67dff6759344e7060b7085da-kitchenaid-artisan-series-tilt-head-5-qt.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dyson V11 Absolute Cordless Vacuum",
+    "description": "The Dyson V11 Absolute Cordless Vacuum features powerful suction and up to 60 minutes of runtime.",
+    "price": 699.99,
+    "category": "Home Appliances",
+    "image": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=500,height=500,quality=75/product/Dyson-V11-Absolute-Pro-Cordless-Portable-Vacuum-Cleaner-Iron-With-Blue-Wand-03.png"
+  },
+  {
+    "id": 9,
+    "name": "Ninja Foodi Smart XL Grill",
+    "description": "The Ninja Foodi Smart XL Grill features 6-in-1 functionality and 4-quart crisper basket.",
+    "price": 279.99,
+    "category": "Home & Kitchen",
+    "image": "https://m.media-amazon.com/images/I/51LqugLcyuL._AC_SL1200_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Canon EOS Rebel T8i DSLR Camera",
+    "description": "The Canon EOS Rebel T8i DSLR Camera features a 24.1-megapixel sensor and DIGIC 8 image processor.",
+    "price": 899.00,
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71XU5DdPz-L._UF1000,1000_QL80_.jpg"
+  }
+  
+]
